@@ -116,7 +116,7 @@ Customer churn directly affects recurring revenue and increases customer acquisi
 - **Tenure:** Length of time a customer has remained with the company.
 - **Monthly Charges:** Amount billed to a customer in a typical month.
 - **Add-on Services:** Extra services purchased by a customer in addition to a base plan, such as security or support services.
-- **IQR:** Interquartile Range — the difference between the 75th and 25th percentiles, used to measure variability and identify extreme values.
+- **Senior citizens:** These are customers above the age of 49.
 - **Fiber Optic / DSL:** Broadband technology types included in the dataset.
 
 ## 9. Tools &amp; Technologies
